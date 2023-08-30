@@ -1,6 +1,6 @@
 This is a simple HTML and JavaScript code that allows you to change the properties of a div element.
 
-Hosted Link :
+Hosted Link : https://salman-555.github.io/Java_Script_M6_module/Day_9_Assignment/index.html
 
 Step 1: HTML
 The HTML code creates a container div and a target div.
