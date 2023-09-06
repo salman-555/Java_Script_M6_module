@@ -1,7 +1,7 @@
 **This is a simple HTML, CSS, and JavaScript code that allows a user to create catch me kind of game whenever we are hover on it then they will
  change their positionon on a webpage.
 **
-Hosted Link : 
+Hosted Link : https://salman-555.github.io/Java_Script_M6_module/catch%20me/catch_me.html
 
 **HTML with litle simpler css that gives the desired margin , padding , height and width along with colours to our webpage**
 <!DOCTYPE html>
