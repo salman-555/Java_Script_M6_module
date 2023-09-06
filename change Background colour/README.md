@@ -2,7 +2,7 @@
 
 This is a simple HTML and JavaScript code that changes the background color of the webpage when the button is clicked.
 
-Hosted Link : https://salman-555.github.io/Java_Script_M6_module/index.html
+Hosted Link : https://salman-555..io/githubJava_Script_M6_module/index.html
 
 Step-by-Step Explanation
 HTML Code
