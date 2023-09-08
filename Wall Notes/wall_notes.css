@@ -1,0 +1,10 @@
+.notes_card{
+    background-color: gray;
+    padding: 10px;
+    height: 200px;
+    color: white;
+}
+#output_container{
+    height: 300px;
+    width: 300px;
+}
