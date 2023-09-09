@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 const scoreMainContainer = document.getElementById("scoreMainContainer");
 const AddDetailsButton = document.getElementById("AddDetailsButton");
 console.log(AddDetailsButton);
@@ -67,7 +67,7 @@ function deleteElemnt() {
   })
 }
 
-=======
+
 const scoreMainContainer = document.getElementById("scoreMainContainer");
 const AddDetailsButton = document.getElementById("AddDetailsButton");
 console.log(AddDetailsButton);
