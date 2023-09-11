@@ -1,7 +1,9 @@
-**This is a simple HTML, CSS, and JavaScript code that allows a user to find the git hub profile while searching on a webpage.
+****This is a simple HTML, CSS, and JavaScript code that allows a user to find the git hub profile while searching on a webpage.**
 **
-Hosted Link : 
-in HTML  code we have used the h2 tag for heading and form tag for making the buttons also has been given the proper class and id's for css implementation
+Hosted Link : https://salman-555.github.io/Java_Script_M6_module/Git%20Hub%20Finder/githubFinder.html
+
+
+**in HTML  code we have used the h2 tag for heading and form tag for making the buttons also has been given the proper class and id's for css implementation**
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -28,7 +30,7 @@ in HTML  code we have used the h2 tag for heading and form tag for making the bu
   </body>
 </html>
 
-simple css is used for the purpose of proper marging , padding , height , width , color and much more styles for the page beutifullnes ...are as follows below
+**simple css is used for the purpose of proper marging , padding , height , width , color and much more styles for the page beutifullnes ...are as follows below**
 
 * {
     margin: 0;
@@ -134,7 +136,7 @@ simple css is used for the purpose of proper marging , padding , height , width 
     filter: drop-shadow(3px 3px 10px red);
   }
 
-  now in JS part firstly we have get the all elemnts from getElementById  and fetch the url and getting the promisses which is resolved from .then and some html tags are created which is cae in to picture while calling to make the website dynamic in nature.........The JS part is as follows below
+**  now in JS part firstly we have get the all elemnts from getElementById  and fetch the url and getting the promisses which is resolved from .then and some html tags are created which is cae in to picture while calling to make the website dynamic in nature.........The JS part is as follows below**
 
   const searchBar = document.getElementById("searchbar");
 const searchButton = document.getElementById("SearchButton");
