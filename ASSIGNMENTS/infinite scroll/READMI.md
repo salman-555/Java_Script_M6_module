@@ -1,6 +1,6 @@
 This is a simple HTML, CSS, and JavaScript code that allows a user to create an infinite scroll(using scroll event) on a webpage.
 
-Hosted Link : https://salman-555.github.io/Java_Script_M6_module/Emoji%20keyboard/emoji.html
+Hosted Link : https://salman-555.github.io/Java_Script_M6_module/ASSIGNMENTS/infinite%20scroll/infiniteScroll.html
 
 Step by step explanation HTM , the HTML code  creates an empty container on a  webpage along with some simple css  to design the web page (to achive the particular height , width , margin , padding ) and the beutifullnes of page  .....
 
