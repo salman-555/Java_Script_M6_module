@@ -52,7 +52,7 @@ const createCard = (index, logo, name, coinId) => {
   div.appendChild(price2);
 
   const moreDetails = document.createElement("a");
-  a.classList.add("button");
+  // a.classList.add("button");
   moreDetails.innerText = "More Details";
   moreDetails.href = "./detail.html?id=" + coinId;
 
