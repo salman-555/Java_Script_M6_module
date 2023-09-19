@@ -1,6 +1,6 @@
 This is a simple HTML, CSS, and JavaScript code that allows a user to create an webpage for crypto currancy details
 
-Hosted Link : 
+Hosted Link : https://salman-555.github.io/Java_Script_M6_module/ASSIGNMENTS/cryptoCurrency/CryptoCurrency.html
 
 Step by step explanation HTM , the HTML code  creates an empty container on a  webpage along with div , h1  and P tag 
 <!DOCTYPE html>
