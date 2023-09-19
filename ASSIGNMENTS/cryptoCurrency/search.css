@@ -1,0 +1,25 @@
+.searchResultContainer{
+    /* border:2px solid red; */
+    overflow-y: scroll;
+}
+
+.searchContainer22{
+    margin-bottom: 1rem;
+    border:2px solid rgb(28, 6, 6);
+
+}
+
+.searchContainer22 h3{
+    width: 5%;
+    /* border: 1px solid red; */
+}
+
+
+.searchContainer22 div{
+    width: 60%;
+    /* border: 2px solid green; */
+}
+.button{
+    border: 3px dashed rgb(41, 11, 11);
+    background-color: rgb(43, 158, 43);
+}
